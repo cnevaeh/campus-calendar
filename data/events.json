@@ -1,0 +1,72 @@
+[
+  {
+    "id": "e01",
+    "title": "第十九届挑战杯课外学术科技作品竞赛校内选拔",
+    "category": "竞赛",
+    "issuer": "创新创业教育学院",
+    "deadline": "2026-11-09",
+    "audience": { "grade": ["大二", "大三", "大四"], "major": ["不限"] },
+    "materials": ["项目申报书", "指导教师意见书", "团队成员信息表", "作品原创性声明"],
+    "entry": "学科竞赛网 → 竞赛报名",
+    "sourceUrl": "https://example.com",
+    "publishTime": "2026-10-28T09:00:00+08:00",
+    "leadTime": 14,
+    "commonMiss": "以为截止才交材料，实际要提前两周找指导教师签字"
+  },
+  {
+    "id": "e02",
+    "title": "大学生创新创业训练计划项目申报",
+    "category": "竞赛",
+    "issuer": "创新创业教育学院",
+    "deadline": "2026-11-08",
+    "audience": { "grade": ["大二", "大三"], "major": ["不限"] },
+    "materials": ["项目申请书", "指导教师推荐意见", "经费预算表"],
+    "entry": "大创管理系统在线提交",
+    "sourceUrl": "https://example.com",
+    "publishTime": "2026-10-25T10:00:00+08:00",
+    "leadTime": 10,
+    "commonMiss": "经费预算表格式不对被退回，来不及重交"
+  },
+  {
+    "id": "e03",
+    "title": "国家奖学金答辩",
+    "category": "奖助",
+    "issuer": "学生工作部",
+    "deadline": "2026-11-06",
+    "audience": { "grade": ["大二", "大三", "大四"], "major": ["不限"] },
+    "materials": ["成绩单", "获奖证明原件", "答辩PPT"],
+    "entry": "学院学工办报名后统一安排",
+    "sourceUrl": "https://example.com",
+    "publishTime": "2026-10-30T15:00:00+08:00",
+    "leadTime": 3,
+    "commonMiss": "获奖证明只交了复印件，现场要求验原件"
+  },
+  {
+    "id": "e04",
+    "title": "大学英语四级考试报名",
+    "category": "考试",
+    "issuer": "教务处",
+    "deadline": "2026-11-12",
+    "audience": { "grade": ["大二", "大三"], "major": ["不限"] },
+    "materials": ["本人校园卡", "电子照片", "报名费"],
+    "entry": "教务系统 → 考试报名 → CET报名",
+    "sourceUrl": "https://example.com",
+    "publishTime": "2026-11-01T08:00:00+08:00",
+    "leadTime": 5,
+    "commonMiss": "照片尺寸不符合要求，上传失败后没再检查"
+  },
+  {
+    "id": "e05",
+    "title": "校医院流感疫苗接种",
+    "category": "健康",
+    "issuer": "校医院",
+    "deadline": "2026-11-10",
+    "audience": { "grade": ["不限"], "major": ["不限"] },
+    "materials": ["校园卡", "知情同意书"],
+    "entry": "钉钉工作台 → 公共卫生 → 疫苗预约",
+    "sourceUrl": "https://example.com",
+    "publishTime": "2026-11-02T11:00:00+08:00",
+    "leadTime": 2,
+    "commonMiss": "没带知情同意书，现场要重新签"
+  }
+]

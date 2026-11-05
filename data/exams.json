@@ -1,0 +1,16 @@
+[
+  { "id": "x1", "type": "exam", "classCode": "24临床I（1）", "title": "药理学", "category": "考试", "deadline": "2026-11-02", "time": "18:30-19:30", "place": "7B210（机房）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x2", "type": "exam", "classCode": "24临床I（1）", "title": "医学伦理学", "category": "考试", "deadline": "2026-12-13", "time": "13:30-15:00", "place": "7B223、7B225（机房）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x3", "type": "exam", "classCode": "24临床I（1）", "title": "传染病学", "category": "考试", "deadline": "2026-12-31", "time": "18:30-20:00", "place": "非直管（排考）1", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x4", "type": "exam", "classCode": "24临床I（1）", "title": "外科学（1）", "category": "考试", "deadline": "2027-01-03", "time": "10:30-12:00", "place": "非直管（排考）1", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x5", "type": "exam", "classCode": "24临床I（1）", "title": "内科学（1）", "category": "考试", "deadline": "2027-01-08", "time": "10:30-12:00", "place": "非直管（排考）1", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x6", "type": "exam", "classCode": "24临床I（1）", "title": "生理学", "category": "考试", "deadline": "2027-01-12", "time": "08:30-10:00", "place": "6B405（语音室）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x7", "type": "exam", "classCode": "24临床I（1）", "title": "医学遗传学", "category": "考试", "deadline": "2027-01-14", "time": "13:30-15:00", "place": "电子阅览室1", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x8", "type": "exam", "classCode": "24临床I（1）", "title": "中医学", "category": "考试", "deadline": "2027-01-14", "time": "18:30-20:00", "place": "电子阅览室1", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "x9", "type": "exam", "classCode": "24临床I（1）", "title": "实验诊断学", "category": "考试", "deadline": "2027-01-16", "time": "15:30-17:00", "place": "7B225（机房）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "y1", "type": "exam", "classCode": "25临床I（1）", "title": "生物化学", "category": "考试", "deadline": "2026-11-18", "time": "19:10-19:40", "place": "6B405（语音室）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "y2", "type": "exam", "classCode": "25临床I（1）", "title": "系统解剖学（部分）", "category": "考试", "deadline": "2027-01-12", "time": "18:30-20:00", "place": "6B404（语音室）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "y3", "type": "exam", "classCode": "25临床I（1）", "title": "生理学", "category": "考试", "deadline": "2027-01-12", "time": "08:30-10:00", "place": "6B405（语音室）", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "y4", "type": "exam", "classCode": "25临床I（1）", "title": "医用高等数学（B）", "category": "考试", "deadline": "2027-01-11", "time": "10:00-12:00", "place": "求知楼203", "campus": "茶山校区", "leadTime": 14 },
+  { "id": "y5", "type": "exam", "classCode": "25临床I（1）", "title": "马克思主义基本原理", "category": "考试", "deadline": "2027-01-07", "time": "15:10-16:40", "place": "6B405（语音室）", "campus": "茶山校区", "leadTime": 14 }
+]

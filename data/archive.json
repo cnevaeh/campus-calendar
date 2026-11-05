@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a1",
+    "title": "卡尔马克思杯",
+    "organizer": "校党委宣传部",
+    "category": "比赛",
+    "startDate": "2025-11-16",
+    "endDate": "2025-11-16"
+  },
+  {
+    "id": "a2",
+    "title": "人际交往大赛",
+    "organizer": "学生工作部",
+    "category": "比赛",
+    "startDate": "2025-10-12",
+    "endDate": "2025-10-12"
+  },
+  {
+    "id": "a3",
+    "title": "职业规划大赛",
+    "organizer": "学生就业指导中心",
+    "category": "比赛",
+    "startDate": "2025-08-27",
+    "endDate": "2025-08-27"
+  }
+]
